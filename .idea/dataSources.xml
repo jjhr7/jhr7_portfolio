@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jjherram-portfolio" uuid="f8499b31-802e-4d9c-aed8-c93f17212404">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Base de datos para el portfolio personal</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://158.42.250.241:3306/jjherram_web-personal</jdbc-url>
+    </data-source>
+  </component>
+</project>
